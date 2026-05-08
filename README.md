@@ -47,3 +47,4 @@ This project is open-source and available under the MIT License.
 
 ---
 *LexiSoft Core &bull; Edition 2026*
+
